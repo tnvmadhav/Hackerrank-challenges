@@ -1,4 +1,4 @@
-# Hackerrank-challenges-apple-and-orange
+# Hackerrank-challenges
 link to the problem statements
  
  1 . https://www.hackerrank.com/challenges/apple-and-orange/problem
