@@ -10,3 +10,5 @@ link to the problem statements
 4. https://www.hackerrank.com/challenges/grading/problem
 
 5. https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem?h_r=next-challenge&h_v=zen
+
+6. https://www.hackerrank.com/challenges/the-birthday-bar/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
