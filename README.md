@@ -14,3 +14,5 @@ link to the problem statements
 6. https://www.hackerrank.com/challenges/the-birthday-bar/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
 
 7. https://www.hackerrank.com/challenges/divisible-sum-pairs/problem
+
+8. https://www.hackerrank.com/challenges/migratory-birds/problem?h_r=next-challenge&h_v=zen
