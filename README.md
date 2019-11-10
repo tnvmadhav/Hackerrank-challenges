@@ -18,3 +18,5 @@ link to the problem statements
 8. https://www.hackerrank.com/challenges/migratory-birds/problem?h_r=next-challenge&h_v=zen
 
 9. https://www.hackerrank.com/challenges/repeated-string/problem?h_r=next-challenge&h_v=zen
+
+10. https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem?h_r=next-challenge&h_v=zen
